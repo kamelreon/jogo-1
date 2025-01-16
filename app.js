@@ -1,4 +1,4 @@
-let titulo = document.querySelection("h 1");
+let titulo = document.querySelection("h1");
 titulo.innerHTML = "Hora do desafio!"; 
 
 function Clique1(){
