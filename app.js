@@ -5,7 +5,7 @@ function Clique1(){
     console.log("Obotão foi pressionado")
     }
 function Clique2(){
-    console.log("Eu odeio Java!")
+    console.log("Eu odeio Java!!!")
 }
 function Clique3(){
     let cidade = prompt("De qual cidade você é?")
